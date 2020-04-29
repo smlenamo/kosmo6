@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Index</title>
+<title>Index.jsp</title>
 </head>
 <body>
-
+	<h2>git 사용법 익히기</h2>
 </body>
 </html>
