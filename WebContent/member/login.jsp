@@ -7,6 +7,9 @@
 <title>login</title>
 </head>
 <body>
-	<h2>회원 가입</h2>
+	<h2>회원 가입</h2>]
+	<form>
+		<input type="text">
+	</form>
 </body>
 </html>
