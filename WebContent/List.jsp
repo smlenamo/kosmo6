@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h2>게시판 목록입니다.</h2>
+	List.jsp의 파엘에 애용추가
 </body>
 </html>
